@@ -1,0 +1,14 @@
+.brick{
+    width:18%;
+    height:150px;
+    margin: 0px 10px;
+    background-color: #f27727;
+    font-size:40px;
+    font-weight: bold;
+    margin-bottom: 20px;
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+}

@@ -1,0 +1,19 @@
+.wall-container{
+    width:100%;
+    min-height: 100vh;
+    padding: 20px 0px;
+}
+
+.button{
+    height: 50px;
+    width: 16%;
+    position: fixed;
+    bottom: 50px;
+    margin: 0px 42%;
+    background-color: #ab14ab;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px #5d1e9c;
+}
