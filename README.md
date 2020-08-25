@@ -1,4 +1,4 @@
-/*Brick Wall*/
+# Brick Wall
 
 This project is simple implentation of ReactJs.
 
